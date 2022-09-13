@@ -4,18 +4,19 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Population Density of Cleveland, OK 2016](/sample_page)
+C:\Users\Kolee\OneDrive\Desktop\Summer- GIS 5253\Week 2- Network Analysis\Lab 2
+---
+[IDW of Texas Temperatures](/pdf/sample_presentation.pdf)
+C:\Users\Kolee\OneDrive\Desktop\Summer- GIS 5253\Week 6 - Spatial Interpolation\Lab 6
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Kriging Temperatures in Texas](http://example.com/)
+C:\Users\Kolee\OneDrive\Desktop\Summer- GIS 5253\Week 6 - Spatial Interpolation\Lab 6
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
+[Chloropleth Map of Cleveland, OK 2016](/sample_page)
+C:\Users\Kolee\OneDrive\Desktop\Summer- GIS 5253\Week 3- Dasymetric Mapping\Lab 3
 
 ### Category Name 2
 
